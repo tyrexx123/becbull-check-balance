@@ -1,0 +1,33 @@
+{
+  "name": "becbull-check-balance",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyrexx123/becbull-check-balance.git"
+  },
+  "keywords": [
+    "becbull-check-balance",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "tyrexx123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyrexx123/becbull-check-balance/issues"
+  },
+  "homepage": "https://github.com/tyrexx123/becbull-check-balance#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "becbull-gas-convert": "1.0.0"
+
+  }
+}
